@@ -1,0 +1,6 @@
+{
+  "erkekRolleri": ["erkekrol1", "erkekrol2", "erkekrol"], //Eğer erkek rolünüz 1 tane ise son hali şu şekilde olmalıdır: "erkekRolleri": ["erkekrol"],
+  "kızRolleri": ["kızrol1", "kızrol2", "kızrol3"], //Eğer kız rolünüz 1 tane ise son hali şu şekilde olmalıdır: "kızRolleri": ["kızkrol"],
+  "kayıtsızRolu": [""], //youtube.com/linlords • LinLord'S Community 
+  "kayıtSorumlusu": "" //Çalan şerefsizlere son sözüm: Yazık kafanıza :D
+}
